@@ -1,2 +1,3 @@
 # myClarityCoin
-Smart Contract implmenting SIP-010 using Clarity 
+
+Smart Contract implementing SIP-010 using Clarity 
